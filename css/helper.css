@@ -1,6 +1,6 @@
-
-:root{
-    --hamburgerIconColor: #1F2937; 
+/* hamburger menu css */
+:root {
+    --hamburgerIconColor: #1F2937;
 }
 
 .hamburger {
@@ -51,7 +51,8 @@
 .hamburger-inner::after {
     width: 28px;
     height: 3px;
-    background-color: var(--hamburgerIconColor);;
+    background-color: var(--hamburgerIconColor);
+    ;
     border-radius: 4px;
     position: absolute;
     transition-property: transform;
@@ -105,4 +106,20 @@
     bottom: 0;
     transform: rotate(-90deg);
     transition: bottom 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+/* breathe animation css */
+.breathe{
+    animation: breathe 5s ease-in-out infinite alternate;
+    /* adjust breathing as per breakpoints */
+}
+
+@keyframes breathe {
+    0% {
+        scale: 1;
+    }
+
+    100% {
+        scale: 0.7;
+    }
 }
