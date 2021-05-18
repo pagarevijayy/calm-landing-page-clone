@@ -1,0 +1,14 @@
+<svg width="137" height="677" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 139.67 686.11" id="draw-svg-1"
+    class="draw-svg replaced-svg svg-replaced-1">
+    <defs>
+        <linearGradient id="a" x1="79.52" y1="-567.14" x2="40.16" y2="-1205.92"
+            gradientTransform="matrix(1 0 0 -1 0 -513.66)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6461e0"></stop>
+            <stop offset="1" stop-color="#8cafe6"></stop>
+        </linearGradient>
+    </defs>
+    <path
+        d="M44.92 682.4c-66.22-112.93 59.05-227.35 86.13-330 5.88-22.28 6.25-46.71-3.28-67.68-17.18-37.77-60.61-55.15-89-85.41C-11.54 145.7 2.66 67.49 22.88 3.81"
+        fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" stroke="url(#a)"
+        style="stroke-dasharray: 756px, 758px; stroke-dashoffset: 0px;"></path>
+</svg>
