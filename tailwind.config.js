@@ -12,7 +12,7 @@ module.exports = {
           sm: '1.25rem',
           md: '2rem',
           lg: '2.25rem'
-        },
+        }
       }
     },
   },

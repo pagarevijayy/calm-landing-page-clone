@@ -109,17 +109,55 @@
 }
 
 /* breathe animation css */
-.breathe{
+.breathe {
     animation: breathe 5s ease-in-out infinite alternate;
     /* adjust breathing as per breakpoints */
 }
 
 @keyframes breathe {
     0% {
-        scale: 1;
+        transform: scale(1);
     }
 
     100% {
-        scale: 0.7;
+        transform: scale(0.7);
     }
+}
+
+
+/* util */
+
+.curve-1 {
+    height: 120px;
+}
+
+.micro-text {
+    font-size: 8px;
+}
+
+.mini-text {
+    font-size: 10px;
+}
+
+.reverse-flow {
+    direction: initial;
+}
+
+@media (min-width: 768px) {
+    .curve-1 {
+        height: auto;
+    }
+
+    .micro-text {
+        font-size: none;
+    }
+
+    .mini-text {
+        font-size: none;
+    }
+
+    .reverse-flow {
+        direction: rtl;
+    }
+
 }
