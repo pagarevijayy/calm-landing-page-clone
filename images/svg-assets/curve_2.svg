@@ -3,8 +3,8 @@
     <defs>
         <linearGradient id="a" x1="79.52" y1="-567.14" x2="40.16" y2="-1205.92"
             gradientTransform="matrix(1 0 0 -1 0 -513.66)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#6461e0"></stop>
-            <stop offset="1" stop-color="#8cafe6"></stop>
+            <stop offset="0" stop-color="#8cafe6"></stop>
+            <stop offset="1" stop-color="#6461e0"></stop>
         </linearGradient>
     </defs>
     <path
