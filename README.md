@@ -1,7 +1,7 @@
-Calm Landing Page Clone using Tailwindcss (responsive)
----
-Developed will trying to learn tailwindcss for the first time. POC experiment.
+_Built using Tailwindcss (responsive)_
+## Calm Landing Page Clone
 
-@todo: 
+This static website was developed as POC while trying to learn/use tailwindcss for the first time.
 
-- [ ] Deploy and add a demo link
+Todo:
+- [ ] Deploy this site and add a demo link
