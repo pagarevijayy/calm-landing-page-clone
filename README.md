@@ -1,5 +1,7 @@
 _Built using Tailwindcss (responsive)_
 
+Demo: [Watch Live](https://pagarevijayy.github.io/calm-landing-page-clone/)
+
 ## Calm Landing Page Website Clone
 
 This static website was developed as POC while trying to learn/use tailwindcss for the first time.
@@ -13,7 +15,7 @@ This static website was developed as POC while trying to learn/use tailwindcss f
 
 ```
 
-For Static deployment follow [this guide.](https://medium.com/geekculture/how-to-use-tailwind-css-on-static-html-with-bonus-at-the-end-679abccc3a34)
+For static deployment follow [this guide.](https://medium.com/geekculture/how-to-use-tailwind-css-on-static-html-with-bonus-at-the-end-679abccc3a34)
 
 ```
 npx tailwindcss build css/main.css -o output.css
