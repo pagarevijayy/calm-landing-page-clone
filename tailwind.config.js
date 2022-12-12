@@ -1,23 +1,23 @@
 module.exports = {
-  purge: [],
+  content: ["**/*.{html,js}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Roboto', 'sans-serif']
+        sans: ["Roboto", "sans-serif"],
       },
       container: {
         padding: {
-          DEFAULT: '1.25rem',
-          sm: '1.25rem',
-          md: '2rem',
-          lg: '2.25rem'
-        }
-      }
+          DEFAULT: "1.25rem",
+          sm: "1.25rem",
+          md: "2rem",
+          lg: "2.25rem",
+        },
+      },
     },
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};
